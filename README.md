@@ -1,4 +1,4 @@
-# Cronus
+# Cronus : Release at 100 ⭐️
 ```go
 package Cronus
 
