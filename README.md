@@ -1,4 +1,5 @@
-# Cronus : Release at 100 ⭐️
+# Cronus
+Release: 100 stars ✅ // 20 follows ❌ // 200 TG members ❌
 ```go
 package Cronus
 
